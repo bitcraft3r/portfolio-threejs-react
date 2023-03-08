@@ -46,15 +46,15 @@ const services = [
     icon: web,
   },
   {
-    title: "Web3 Developer",
+    title: "Solidity & Web3",
     icon: mobile,
   },
   {
-    title: "Solidity Developer",
+    title: "AI Art & 3D Design",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "DeFi, GameFi & Metaverse",
     icon: creator,
   },
 ];
